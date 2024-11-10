@@ -1,0 +1,45 @@
+Subject: [PATCH] First
+---
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision f2597328ed89ffec69f43c22760a5f51b22dbf09)
++++ b/.idea/workspace.xml	(revision 8a5d4bbbf52b304871129c73abc047a1401d5399)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="461d6258-53b3-4ebb-a620-2d5242e7ce82" name="Changes" comment="" />
++    <list default="true" id="461d6258-53b3-4ebb-a620-2d5242e7ce82" name="Changes" comment="First" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -87,6 +87,15 @@
+       <option name="presentableId" value="Default" />
+       <updated>1731187391801</updated>
+     </task>
++    <task id="LOCAL-00001" summary="First">
++      <option name="closed" value="true" />
++      <created>1731277482522</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1731277482522</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -100,4 +109,8 @@
+       </map>
+     </option>
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="First" />
++    <option name="LAST_COMMIT_MESSAGE" value="First" />
++  </component>
+ </project>
+\ No newline at end of file
